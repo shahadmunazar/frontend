@@ -1,0 +1,67 @@
+.iot-product-page {
+  background: #f4f6fa;
+  min-height: 100vh;
+  padding-bottom: 40px;
+}
+
+.iot-hero {
+  background: linear-gradient(90deg, #2dc1f8 0%, #00aaff 100%);
+  color: #fff;
+  padding: 60px 0 40px 0;
+  text-align: center;
+}
+
+.iot-hero h1 {
+  font-size: 2.4rem;
+  margin-bottom: 1rem;
+}
+
+.iot-hero p {
+  font-size: 1.2rem;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.iot-section {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 40px 20px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.06);
+  text-align: center;
+}
+
+.iot-section h2 {
+  color: #2dc1f8;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.iot-section p {
+  font-size: 1.1rem;
+  color: #222;
+  line-height: 1.7;
+}
+
+.iot-contact {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 32px 20px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.06);
+  text-align: center;
+}
+
+.iot-contact h3 {
+  color: #2dc1f8;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.iot-contact p {
+  font-size: 1.05rem;
+  color: #222;
+  line-height: 1.7;
+} 
